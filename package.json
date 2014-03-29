@@ -1,0 +1,11 @@
+{
+  "name": "atom-jcroft-light-ui",
+  "theme": "ui",
+  "version": "0.25.0",
+  "description": "Light theme by jcroft",
+  "license": "MIT",
+  "repository": "https://github.com/atom/atom-dark-ui",
+  "engines": {
+    "atom": ">0.40.0"
+  }
+}
